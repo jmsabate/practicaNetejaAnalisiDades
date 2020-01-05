@@ -1,9 +1,9 @@
 # practicaNetejaAnalisiDades
 Repositori amb tots els components que s'han construït per a realitzar la pràctica '2. Neteja i Anàlisi de Dades'  de l'assignatura 'Tipologia i cicle de Vida de les dades' del Màster en Data Science de la UOC. Gener 2020
 
-## Pràctica Neteja i Anàlisi de les Dades: estudi sobre un fitxer obtingut de Goodreads
+## Pràctica Neteja i Anàlisi de les Dades: estudi sobre un fitxer obtingut de kaggle
 El fitxer s'ha obtingut de https://www.kaggle.com/jealousleopard/goodreadsbooks i s'ha completat amb informació procedent de la pròpia web de **Goodreads** així com de l'organització **ISBN** i **Wikipedia**. Contè:
-* Informació d'edicions de llibres avaluats a Goodreadsles amb dades com ara la mitjana de valoracions, nombre de valoracions i de comentarios, ...
+* Informació d'edicions de llibres avaluats a Goodreadsles amb dades com ara l'autor, el codi ISBN, la mitjana de valoracions, nombre de valoracions i de comentaris, ...
 * Nova informació recuperada com a part de la pràctica realitzada: 
   * de **goodreads** o **ISBN**: any de publicació del llibre, longitud de la descripció del llibre a **goodreads**
   * de **Wikipedia**: any de naixement i sexe de l'autor
@@ -13,6 +13,10 @@ El treball ha estat realitzat per l'alumne jsabatei
 
 ## Documentació
 * *README.md*: Aquest propi document
+
+* *Carpeta docs*: Carpeta amb els documents de la pràctica:
+    * dsfsa
+
 
 * *Pràctica_1_jsabatei_Web_Scraping.pdf*: document que descriu la pràctica realitzada.
 * *Pràctica_1_jsabatei_Web_Scraping.py*: script Python amb el codi del web scraping realitzat per a obtenir les dades.

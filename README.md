@@ -15,7 +15,9 @@ El treball ha estat realitzat per l'alumne jsabatei
 * *README.md*: Aquest propi document
 
 * *Carpeta docs*: Carpeta amb els documents de la pràctica:
-    * dsfsa
+    * *Pràctica_2_jsabatei_Neteja_i_Anàlisi.ipynb* notebook Jupiter amb la resolució de la pràctica amb codi Python
+    * *Pràctica_2_jsabatei_Neteja_i_Anàlisi.html* el notebook Jupiter anterior imprès com a html
+    * *Pràctica_2_jsabatei_Neteja_i_Anàlisi.pdf* el notebook Jupiter anterior imprès com a pdf.
 
 
 * *Pràctica_1_jsabatei_Web_Scraping.pdf*: document que descriu la pràctica realitzada.

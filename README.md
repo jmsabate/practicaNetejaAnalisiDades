@@ -20,8 +20,8 @@ El treball ha estat realitzat per l'alumne jsabatei
     
 * *Carpeta dades*: 3 fitxers csv com a resultat de la pràctca:
   * *books.csv*: Fitxer original descarregat de https://www.kaggle.com/jealousleopard/goodreadsbooks.
-  * *bokksbase.csv*: D'acord amb el desenvolupament de la pràctica, conté la informació inicial més la informació que s'ha recuperat de **Goodreads** i **ISBN**: Any de publicació del llibre i longitud de la descripció del llibre a **Goodreads** 
-  * *booksbase3.csv*: Conté la informació anterior més informació procedent de **Wikipedia**: Any de naixement de l'autor i sexe. 
+  * *booksbase.csv*: D'acord amb el desenvolupament de la pràctica, conté la informació inicial més la informació que s'ha recuperat de **Goodreads** i **ISBN**: Any de publicació del llibre i longitud de la descripció del llibre a **Goodreads** 
+  * *booksbase3.csv*: Conté la informació anterior més informació procedent de **Wikipedia**: Any de naixement de l'autor i sexe. Aquest fitxer clou l'etapa de neteja de dades i és el punt de partida per a l'etapa d'anàlisi. 
 
 ## *Developer Key* per a accés a Goodreads
 Per a reproduir el Jupiter notebook d'aquesta pràctica, cal una *API Key* subministrada per **Goodreads**: 

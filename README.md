@@ -14,11 +14,11 @@ El treball ha estat realitzat per l'alumne jsabatei
 ## Documentació
 * *README.md*: Aquest propi document
 
-* *Carpeta docs*: Carpeta amb els documents de la pràctica:
+* *Carpeta documents*: Carpeta amb els documents de la pràctica:
     * *Pràctica_2_jsabatei_Neteja_i_Anàlisi.ipynb* notebook Jupiter amb la resolució de la pràctica amb codi Python
     * *Pràctica_2_jsabatei_Neteja_i_Anàlisi.html* el notebook Jupiter anterior imprès com a html
     
-* *Carpeta csv's*: 3 fitxers csv com a resultat de la pràctca:
+* *Carpeta dades*: 3 fitxers csv com a resultat de la pràctca:
   * *books.csv*: Fitxer original descarregat de https://www.kaggle.com/jealousleopard/goodreadsbooks.
   * *bokksbase.csv*: D'acord amb el desenvolupament de la pràctica, conté la informació inicial més la informació que s'ha recuperat de **Goodreads** i **ISBN**: Any de publicació del llibre i longitud de la descripció del llibre a **Goodreads** 
   * *booksbase3.csv*: Conté la informació anterior més informació procedent de **Wikipedia**: Any de naixement de l'autor i sexe. 

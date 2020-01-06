@@ -1,7 +1,7 @@
 # practicaNetejaAnalisiDades
 Repositori amb tots els components que s'han construït per a realitzar la pràctica '2. Neteja i Anàlisi de Dades'  de l'assignatura 'Tipologia i cicle de Vida de les dades' del Màster en Data Science de la UOC. Gener 2020
 
-## Pràctica Neteja i Anàlisi de les Dades: estudi sobre el fitxer **goodreads** obtingut de kaggle
+## Pràctica Neteja i Anàlisi de les Dades: estudi sobre el fitxer **books.csv** obtingut de kaggle
 El fitxer s'ha obtingut de https://www.kaggle.com/jealousleopard/goodreadsbooks i s'ha completat amb informació procedent de la pròpia web de **Goodreads** així com de l'organització **ISBN** i **Wikipedia**. Conté:
 * Informació d'edicions de llibres avaluats a Goodreadsles amb dades com ara l'autor, el codi ISBN, la mitjana de valoracions, nombre de valoracions i de comentaris, ...
 * Nova informació recuperada com a part de la pràctica realitzada: 

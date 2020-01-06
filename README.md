@@ -23,7 +23,7 @@ El treball ha estat realitzat per l'alumne jsabatei
   * *bokksbase.csv*: D'acord amb el desenvolupament de la pràctica, conté la informació inicial més la informació que s'ha recuperat de **Goodreads** i **ISBN**: Any de publicació del llibre i longitud de la descripció del llibre a **Goodreads** 
   * *booksbase3.csv*: Conté la informació anterior més informació procedent de **Wikipedia**: Any de naixement de l'autor i sexe. 
 
-## **Developer Key** per a accés a Goodreads
+## *Developer Key* per a accés a Goodreads
 Per a reproduir el Jupiter notebook d'aquesta pràctica, cal una *API Key* subministrada per **Goodreads**: 
 * Es pot aconseguir aquesta *API Key* registrant-se a https://www.goodreads.com/api. 
 * Emmagatzemar la clau en un fitxer csv de nom *clauGoodread.csv*, que contingui una única columna *clau* i com a única fila la *Developer Key* subministrada per **Goodreads**.

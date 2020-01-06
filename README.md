@@ -3,7 +3,7 @@ Repositori amb tots els components que s'han construït per a realitzar la pràc
 
 ## Pràctica Neteja i Anàlisi de les Dades: estudi sobre el fitxer **books.csv** obtingut de kaggle
 El fitxer s'ha obtingut de https://www.kaggle.com/jealousleopard/goodreadsbooks i s'ha completat amb informació procedent de la web de **Goodreads** així com de l'organització **ISBN** i **Wikipedia**. Conté:
-* Informació d'edicions de llibres avaluats a Goodreadsles amb dades com ara l'autor, el codi ISBN, la mitjana de valoracions, nombre de valoracions i de comentaris, ...
+* Informació d'edicions de llibres avaluats a Goodreads (web dedicada a la recomanació de llibres) amb dades com ara l'autor, el codi ISBN, la mitjana de valoracions realitzades pels usuaris de *goodreads*, nombre de valoracions i de comentaris, ...
 * Nova informació recuperada com a part de la pràctica realitzada: 
   * de **goodreads** o **ISBN**: any de publicació del llibre, longitud de la descripció del llibre a **goodreads**
   * de **Wikipedia**: any de naixement i sexe de l'autor
@@ -24,7 +24,7 @@ El treball ha estat realitzat per l'alumne jsabatei
   * *booksbase3.csv*: Conté la informació anterior més informació procedent de **Wikipedia**: Any de naixement de l'autor i sexe. Aquest fitxer clou l'etapa de neteja de dades i és el punt de partida per a l'etapa d'anàlisi. 
 
 ## *Developer Key* per a accés a Goodreads
-Per a reproduir el Jupiter notebook d'aquesta pràctica, cal una *API Key* subministrada per **Goodreads**: 
+Per a reproduir el notebook d'aquesta pràctica, cal una *API Key* subministrada per **Goodreads**: 
 * Es pot aconseguir aquesta *API Key* registrant-se a https://www.goodreads.com/api. 
 * Emmagatzemar la clau en un fitxer csv de nom *clauGoodread.csv*, que contingui una única columna *clau* i com a única fila la *Developer Key* subministrada per **Goodreads**.
 
